@@ -1,0 +1,245 @@
+TPongTutorialTests
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/Info.plist /Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorialTests/PongTutorialTests-Info.plist
+cProcessPCH /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PrecompiledHeaders/PongTutorial-Prefix-ezfbnnmcjkrdmldawjveqgdxxgpw/PongTutorial-Prefix.pch.pch PongTutorial/PongTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/Objects-normal/i386/PongTutorialTests.o /Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorialTests/PongTutorialTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/PongTutorialTests normal i386
+cGenerateDSYMFile /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest.dSYM /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/PongTutorialTests
+cCopyStringsFile /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/en.lproj/InfoPlist.strings PongTutorialTests/en.lproj/InfoPlist.strings
+cTouch /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/XCTest.framework/XCTest
+c000000005239FC2D00000000000256F0
+t1379531821
+s153328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000528155B10000000000000176
+t1384207793
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005239FC4100000000000003B5
+t1379531841
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052683DBC00000000000001A0
+t1382563260
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052683DBE000000000088C680
+t1382563262
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052683DC30000000001DB9910
+t1382563267
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c000000005239FC6E0000000000000AC9
+t1379531886
+s2761
+
+N/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/Objects-normal/i386/PongTutorialTests.LinkFileList
+c0000000052A327F600000000000000C5
+t1386424310
+s197
+
+N/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/Objects-normal/i386/PongTutorialTests.o
+t1386424311
+s8228
+
+N/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PrecompiledHeaders/PongTutorial-Prefix-ezfbnnmcjkrdmldawjveqgdxxgpw/PongTutorial-Prefix.pch.pch
+t1386424311
+s109216
+
+N/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest
+t1386424311
+s170
+
+N/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest.dSYM
+t2
+s0
+
+N/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/Info.plist
+t1386424310
+s512
+
+N/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/PongTutorialTests
+t1386424311
+s10608
+
+N/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/en.lproj/InfoPlist.strings
+t1386424311
+s42
+
+N/Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorial/PongTutorial-Prefix.pch
+c0000000052A2E2510000000000000158
+t1386406481
+s344
+
+N/Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorialTests/PongTutorialTests-Info.plist
+c0000000052A2E25100000000000002AE
+t1386406481
+s686
+
+N/Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorialTests/PongTutorialTests.m
+c0000000052A2E251000000000000029F
+t1386406481
+s671
+
+N/Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorialTests/en.lproj/InfoPlist.strings
+c0000000052A2E251000000000000002D
+t1386406481
+s45
+
+CBuild AST from /Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorialTests/PongTutorialTests.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies134885765f53b841^587487765f53b841^---0#1#1#--18"Check dependencies36"15803F4E-C0BA-4963-AE9F-7A8632FDD8AD-
+
+CCompileC DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/Objects-normal/i386/PongTutorialTests.o /Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorialTests/PongTutorialTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408117111.445877
+e408117111.600837
+r1
+xCompileC
+xDerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/Objects-normal/i386/PongTutorialTests.o
+x/Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorialTests/PongTutorialTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorialTests/PongTutorialTests.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorialTests/PongTutorialTests.m264"CompileC DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/Objects-normal/i386/PongTutorialTests.o PongTutorialTests/PongTutorialTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler113872775f53b841^b7d099775f53b841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorialTests/PongTutorialTests.m0000000000000000^4627"CompileC DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/Objects-normal/i386/PongTutorialTests.o PongTutorialTests/PongTutorialTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ismail/Documents/XcodeProj/PongTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/PongTutorialTests-generated-files.hmap -I/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/PongTutorialTests-own-target-headers.hmap -I/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/PongTutorialTests-all-target-headers.hmap -iquote /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/PongTutorialTests-project-headers.hmap -I/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/DerivedSources/i386 -I/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/DerivedSources -F/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -include /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PrecompiledHeaders/PongTutorial-Prefix-ezfbnnmcjkrdmldawjveqgdxxgpw/PongTutorial-Prefix.pch -MMD -MT dependencies -MF /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/Objects-normal/i386/PongTutorialTests.d --serialize-diagnostics /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/Objects-normal/i386/PongTutorialTests.dia -c /Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorialTests/PongTutorialTests.m -o /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/Objects-normal/i386/PongTutorialTests.o36"19F2CA20-321A-42C8-9366-CC10467BA8C9-
+b4E4C413A-9C63-42FF-9E9D-8F48B9A8F033
+
+CCopyStringsFile /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/en.lproj/InfoPlist.strings PongTutorialTests/en.lproj/InfoPlist.strings
+s408117111.747068
+e408117111.748095
+r1
+xCopyStringsFile
+x/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/en.lproj/InfoPlist.strings
+xPongTutorialTests/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy PongTutorialTests/en.lproj/InfoPlist.strings174"CopyStringsFile DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/en.lproj/InfoPlist.strings PongTutorialTests/en.lproj/InfoPlist.strings734bbf775f53b841^9d83bf775f53b841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorialTests/en.lproj/InfoPlist.strings0000000000000000^705"CopyStringsFile DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/en.lproj/InfoPlist.strings PongTutorialTests/en.lproj/InfoPlist.strings    cd /Users/Ismail/Documents/XcodeProj/PongTutorial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/en.lproj -- PongTutorialTests/en.lproj/InfoPlist.strings36"5A52C62F-6C50-4027-A924-9DDAC8B7ADF6-
+b4E4C413A-9C63-42FF-9E9D-8F48B9A8F033
+
+CGenerateDSYMFile /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest.dSYM /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/PongTutorialTests
+s408117111.736325
+e408117111.746632
+r1
+xGenerateDSYMFile
+x/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest.dSYM
+x/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/PongTutorialTests
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"Generate /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest.dSYM213"GenerateDSYMFile DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest.dSYM DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/PongTutorialTests338bbc775f53b841^cd23bf775f53b841^---0#0#1#-19%DVTDocumentLocation2@145"file:///Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest.dSYM003420f7dcffdf42^857"GenerateDSYMFile DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest.dSYM DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/PongTutorialTests    cd /Users/Ismail/Documents/XcodeProj/PongTutorial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/PongTutorialTests -o /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest.dSYM36"80079349-A253-4FBF-BFCA-F4D9FC27E80E-
+b4E4C413A-9C63-42FF-9E9D-8F48B9A8F033
+
+CLd /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/PongTutorialTests normal i386
+s408117111.640915
+e408117111.735610
+r1
+xLd
+x/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/PongTutorialTests
+xnormal
+xi386
+d/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/Objects-normal/i386/PongTutorialTests.LinkFileList
+d/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorial.app/PongTutorial
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/bundle1.o
+d/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/Objects-normal/i386/PongTutorialTests.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/XCTest.framework/XCTest
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection156"Link /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/PongTutorialTests119"Ld DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/PongTutorialTests normal i3863735a4775f53b841^8751bc775f53b841^---0#0#1#--2132"Ld DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/PongTutorialTests normal i386    cd /Users/Ismail/Documents/XcodeProj/PongTutorial    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator -F/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/Objects-normal/i386/PongTutorialTests.LinkFileList -bundle_loader /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorial.app/PongTutorial -Xlinker -objc_abi_version -Xlinker 2 -framework XCTest -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework XCTest -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/Objects-normal/i386/PongTutorialTests_dependency_info.dat -o /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/PongTutorialTests36"5E99B660-25CE-41DC-BD32-A419154C763A-
+b4E4C413A-9C63-42FF-9E9D-8F48B9A8F033
+
+CProcessInfoPlistFile /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/Info.plist /Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorialTests/PongTutorialTests-Info.plist
+s408117110.529821
+e408117110.530847
+r1
+xProcessInfoPlistFile
+x/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/Info.plist
+x/Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorialTests/PongTutorialTests-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Process /Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorialTests/PongTutorialTests-Info.plist165"ProcessInfoPlistFile DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/Info.plist PongTutorialTests/PongTutorialTests-Info.plist79ae87765f53b841^dae587765f53b841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorialTests/PongTutorialTests-Info.plist0000000000000000^748"ProcessInfoPlistFile DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/Info.plist PongTutorialTests/PongTutorialTests-Info.plist    cd /Users/Ismail/Documents/XcodeProj/PongTutorial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorialTests/PongTutorialTests-Info.plist -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest/Info.plist36"DB6DA81E-3174-4AA3-8CE9-FB9A460E4100-
+b4E4C413A-9C63-42FF-9E9D-8F48B9A8F033
+
+CProcessPCH /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PrecompiledHeaders/PongTutorial-Prefix-ezfbnnmcjkrdmldawjveqgdxxgpw/PongTutorial-Prefix.pch.pch PongTutorial/PongTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408117110.531454
+e408117111.445338
+r1
+xProcessPCH
+x/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PrecompiledHeaders/PongTutorial-Prefix-ezfbnnmcjkrdmldawjveqgdxxgpw/PongTutorial-Prefix.pch.pch
+xPongTutorial/PongTutorial-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorial/PongTutorial-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile PongTutorial/PongTutorial-Prefix.pch256"ProcessPCH DerivedData/PongTutorial/Build/Intermediates/PrecompiledHeaders/PongTutorial-Prefix-ezfbnnmcjkrdmldawjveqgdxxgpw/PongTutorial-Prefix.pch.pch PongTutorial/PongTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler971f88765f53b841^b40372775f53b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorial/PongTutorial-Prefix.pch0000000000000000^4401"ProcessPCH DerivedData/PongTutorial/Build/Intermediates/PrecompiledHeaders/PongTutorial-Prefix-ezfbnnmcjkrdmldawjveqgdxxgpw/PongTutorial-Prefix.pch.pch PongTutorial/PongTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ismail/Documents/XcodeProj/PongTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/PongTutorialTests-generated-files.hmap -I/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/PongTutorialTests-own-target-headers.hmap -I/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/PongTutorialTests-all-target-headers.hmap -iquote /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/PongTutorialTests-project-headers.hmap -I/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/DerivedSources/i386 -I/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PongTutorial.build/Debug-iphonesimulator/PongTutorialTests.build/DerivedSources -F/Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks --serialize-diagnostics /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PrecompiledHeaders/PongTutorial-Prefix-ezfbnnmcjkrdmldawjveqgdxxgpw/PongTutorial-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PrecompiledHeaders/PongTutorial-Prefix-ezfbnnmcjkrdmldawjveqgdxxgpw/PongTutorial-Prefix.pch.d -c /Users/Ismail/Documents/XcodeProj/PongTutorial/PongTutorial/PongTutorial-Prefix.pch -o /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Intermediates/PrecompiledHeaders/PongTutorial-Prefix-ezfbnnmcjkrdmldawjveqgdxxgpw/PongTutorial-Prefix.pch.pch36"CB3A456D-B180-48E6-8C63-668375C521E4-
+b4E4C413A-9C63-42FF-9E9D-8F48B9A8F033
+
+CProcessPCH /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Index/PrecompiledHeaders/PongTutorial-Prefix-gcdndwknlctspxecxisasznnxvek_ast/PongTutorial-Prefix.pch.pch PongTutorial/PongTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Ismail/Documents/XcodeProj/PongTutorial/DerivedData/PongTutorial/Build/Products/Debug-iphonesimulator/PongTutorialTests.xctest
+r0
+

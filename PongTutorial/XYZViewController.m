@@ -14,8 +14,29 @@
 
 @implementation XYZViewController
 
+//Code that will run as soon as the view will load.
+//we will use this to animate are Background.
+
 - (void)viewDidLoad
 {
+    animatedBackground.animationImages = [NSArray arrayWithObjects:
+                                          [UIImage imageNamed:@"1.png"],
+                                          [UIImage imageNamed:@"2.png"],
+                                          [UIImage imageNamed:@"3.png"],
+                                          [UIImage imageNamed:@"4.png"],
+                                          [UIImage imageNamed:@"5.png"],
+                                          nil
+                                          ];
+    
+
+    [animatedBackground setAnimationRepeatCount:0];
+    animatedBackground.animationDuration = 4;
+     [animatedBackground startAnimating];
+    
+    
+    
+    
+    
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
 }

@@ -9,5 +9,10 @@
 #import <UIKit/UIKit.h>
 
 @interface XYZViewController : UIViewController
+{
+    IBOutlet UIImageView * animatedBackground;
+    
+}
+
 
 @end

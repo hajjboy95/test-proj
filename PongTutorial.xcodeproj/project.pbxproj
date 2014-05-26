@@ -21,6 +21,15 @@
 		EC5FB8CD185319D100EAC2DF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC5FB8AF185319D100EAC2DF /* UIKit.framework */; };
 		EC5FB8D5185319D100EAC2DF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EC5FB8D3185319D100EAC2DF /* InfoPlist.strings */; };
 		EC5FB8D7185319D100EAC2DF /* PongTutorialTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EC5FB8D6185319D100EAC2DF /* PongTutorialTests.m */; };
+		EC5FB8E818531A9000EAC2DF /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = EC5FB8E018531A9000EAC2DF /* 5.png */; };
+		EC5FB8E918531A9000EAC2DF /* Player.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC5FB8E118531A9000EAC2DF /* Player.jpg */; };
+		EC5FB8EA18531A9000EAC2DF /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = EC5FB8E218531A9000EAC2DF /* 3.png */; };
+		EC5FB8EB18531A9000EAC2DF /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = EC5FB8E318531A9000EAC2DF /* 1.png */; };
+		EC5FB8EC18531A9000EAC2DF /* BackGround.png in Resources */ = {isa = PBXBuildFile; fileRef = EC5FB8E418531A9000EAC2DF /* BackGround.png */; };
+		EC5FB8ED18531A9000EAC2DF /* Ball.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC5FB8E518531A9000EAC2DF /* Ball.jpg */; };
+		EC5FB8EE18531A9000EAC2DF /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = EC5FB8E618531A9000EAC2DF /* 2.png */; };
+		EC5FB8EF18531A9000EAC2DF /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = EC5FB8E718531A9000EAC2DF /* 4.png */; };
+		EC5FB8F51853257600EAC2DF /* XYZGameViewContoller.m in Sources */ = {isa = PBXBuildFile; fileRef = EC5FB8F41853257600EAC2DF /* XYZGameViewContoller.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +62,16 @@
 		EC5FB8D2185319D100EAC2DF /* PongTutorialTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PongTutorialTests-Info.plist"; sourceTree = "<group>"; };
 		EC5FB8D4185319D100EAC2DF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		EC5FB8D6185319D100EAC2DF /* PongTutorialTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PongTutorialTests.m; sourceTree = "<group>"; };
+		EC5FB8E018531A9000EAC2DF /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		EC5FB8E118531A9000EAC2DF /* Player.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Player.jpg; sourceTree = "<group>"; };
+		EC5FB8E218531A9000EAC2DF /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		EC5FB8E318531A9000EAC2DF /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		EC5FB8E418531A9000EAC2DF /* BackGround.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BackGround.png; sourceTree = "<group>"; };
+		EC5FB8E518531A9000EAC2DF /* Ball.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ball.jpg; sourceTree = "<group>"; };
+		EC5FB8E618531A9000EAC2DF /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		EC5FB8E718531A9000EAC2DF /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		EC5FB8F31853257600EAC2DF /* XYZGameViewContoller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XYZGameViewContoller.h; sourceTree = "<group>"; };
+		EC5FB8F41853257600EAC2DF /* XYZGameViewContoller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XYZGameViewContoller.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,11 +131,13 @@
 		EC5FB8B1185319D100EAC2DF /* PongTutorial */ = {
 			isa = PBXGroup;
 			children = (
+				EC5FB8BD185319D100EAC2DF /* Main.storyboard */,
 				EC5FB8BA185319D100EAC2DF /* XYZAppDelegate.h */,
 				EC5FB8BB185319D100EAC2DF /* XYZAppDelegate.m */,
-				EC5FB8BD185319D100EAC2DF /* Main.storyboard */,
 				EC5FB8C0185319D100EAC2DF /* XYZViewController.h */,
 				EC5FB8C1185319D100EAC2DF /* XYZViewController.m */,
+				EC5FB8F31853257600EAC2DF /* XYZGameViewContoller.h */,
+				EC5FB8F41853257600EAC2DF /* XYZGameViewContoller.m */,
 				EC5FB8C3185319D100EAC2DF /* Images.xcassets */,
 				EC5FB8B2185319D100EAC2DF /* Supporting Files */,
 			);
@@ -126,6 +147,14 @@
 		EC5FB8B2185319D100EAC2DF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				EC5FB8E018531A9000EAC2DF /* 5.png */,
+				EC5FB8E118531A9000EAC2DF /* Player.jpg */,
+				EC5FB8E218531A9000EAC2DF /* 3.png */,
+				EC5FB8E318531A9000EAC2DF /* 1.png */,
+				EC5FB8E418531A9000EAC2DF /* BackGround.png */,
+				EC5FB8E518531A9000EAC2DF /* Ball.jpg */,
+				EC5FB8E618531A9000EAC2DF /* 2.png */,
+				EC5FB8E718531A9000EAC2DF /* 4.png */,
 				EC5FB8B3185319D100EAC2DF /* PongTutorial-Info.plist */,
 				EC5FB8B4185319D100EAC2DF /* InfoPlist.strings */,
 				EC5FB8B7185319D100EAC2DF /* main.m */,
@@ -230,8 +259,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				EC5FB8C4185319D100EAC2DF /* Images.xcassets in Resources */,
+				EC5FB8EF18531A9000EAC2DF /* 4.png in Resources */,
 				EC5FB8B6185319D100EAC2DF /* InfoPlist.strings in Resources */,
+				EC5FB8EB18531A9000EAC2DF /* 1.png in Resources */,
+				EC5FB8ED18531A9000EAC2DF /* Ball.jpg in Resources */,
+				EC5FB8E918531A9000EAC2DF /* Player.jpg in Resources */,
 				EC5FB8BF185319D100EAC2DF /* Main.storyboard in Resources */,
+				EC5FB8E818531A9000EAC2DF /* 5.png in Resources */,
+				EC5FB8EE18531A9000EAC2DF /* 2.png in Resources */,
+				EC5FB8EC18531A9000EAC2DF /* BackGround.png in Resources */,
+				EC5FB8EA18531A9000EAC2DF /* 3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -253,6 +290,7 @@
 				EC5FB8C2185319D100EAC2DF /* XYZViewController.m in Sources */,
 				EC5FB8BC185319D100EAC2DF /* XYZAppDelegate.m in Sources */,
 				EC5FB8B8185319D100EAC2DF /* main.m in Sources */,
+				EC5FB8F51853257600EAC2DF /* XYZGameViewContoller.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
